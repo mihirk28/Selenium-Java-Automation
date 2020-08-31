@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-31T19:28:22 CEST" name="Default suite" finished-at="2020-08-31T19:28:24 CEST" duration-ms="2278">
+    <groups>
+    </groups>
+    <test started-at="2020-08-31T19:28:22 CEST" name="Default test" finished-at="2020-08-31T19:28:24 CEST" duration-ms="2278">
+      <class name="Test.SeleniumTestWithExtentReportsAndTestNG">
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:14 CEST" name="setupTest" finished-at="2020-08-31T19:28:22 CEST" duration-ms="7815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method is-config="true" signature="setupTestConfig()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:22 CEST" name="setupTestConfig" finished-at="2020-08-31T19:28:22 CEST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTestConfig -->
+        <test-method signature="Test1()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:22 CEST" name="Test1" finished-at="2020-08-31T19:28:22 CEST" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2_01()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:22 CEST" name="Test2_01" finished-at="2020-08-31T19:28:23 CEST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2_01 -->
+        <test-method signature="Test2_02()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:23 CEST" name="Test2_02" finished-at="2020-08-31T19:28:23 CEST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2_02 -->
+        <test-method signature="Test2_03()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:23 CEST" name="Test2_03" finished-at="2020-08-31T19:28:23 CEST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2_03 -->
+        <test-method signature="Test2_04()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:23 CEST" name="Test2_04" finished-at="2020-08-31T19:28:23 CEST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2_04 -->
+        <test-method signature="Test2_05()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:23 CEST" name="Test2_05" finished-at="2020-08-31T19:28:23 CEST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2_05 -->
+        <test-method signature="Test2_06()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:23 CEST" name="Test2_06" finished-at="2020-08-31T19:28:23 CEST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2_06 -->
+        <test-method signature="Test2_07()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:23 CEST" name="Test2_07" finished-at="2020-08-31T19:28:23 CEST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2_07 -->
+        <test-method signature="Test2_08()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:23 CEST" name="Test2_08" finished-at="2020-08-31T19:28:23 CEST" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2_08 -->
+        <test-method signature="Test2_09()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:23 CEST" name="Test2_09" finished-at="2020-08-31T19:28:23 CEST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2_09 -->
+        <test-method signature="Test2_10()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:23 CEST" name="Test2_10" finished-at="2020-08-31T19:28:24 CEST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2_10 -->
+        <test-method signature="Test2_11()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:24 CEST" name="Test2_11" finished-at="2020-08-31T19:28:24 CEST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2_11 -->
+        <test-method signature="Test3_01()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:24 CEST" name="Test3_01" finished-at="2020-08-31T19:28:24 CEST" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3_01 -->
+        <test-method signature="Test3_02()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:24 CEST" name="Test3_02" finished-at="2020-08-31T19:28:24 CEST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3_02 -->
+        <test-method signature="Test3_03()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:24 CEST" name="Test3_03" finished-at="2020-08-31T19:28:24 CEST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3_03 -->
+        <test-method signature="Test3_04()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:24 CEST" name="Test3_04" finished-at="2020-08-31T19:28:24 CEST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3_04 -->
+        <test-method signature="Test3_05()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:24 CEST" name="Test3_05" finished-at="2020-08-31T19:28:24 CEST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3_05 -->
+        <test-method signature="Test3_06()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:24 CEST" name="Test3_06" finished-at="2020-08-31T19:28:24 CEST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3_06 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Test.SeleniumTestWithExtentReportsAndTestNG@9225652]" started-at="2020-08-31T19:28:24 CEST" name="closeBrowser" finished-at="2020-08-31T19:28:26 CEST" duration-ms="1225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Test.SeleniumTestWithExtentReportsAndTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
